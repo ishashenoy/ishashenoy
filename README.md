@@ -3,7 +3,7 @@
 
 ### About Me
 - 🎓 First-year **Management Engineering** student at the University of Waterloo 
-- 📚 Interested in **full stack development**, web/mobile apps, and productivity-focused tools
+- 📚 Interested in **full stack development** and data learning.
 
 
 ### How to reach me: ...
