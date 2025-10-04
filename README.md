@@ -9,7 +9,7 @@
 ### 🚀 Skills & Tools
 - 💻 **Languages:** Python, Java, JavaScript 
 - 🌐 **Web Development:** React, Node.js, Express, MongoDB, HTML, CSS, Tailwind  
-- ⚙️ **Tools:** Git, GitHub, Excel, VS Code  
+- ⚙️ **Tools:** Selenium, Git, GitHub, VS Code.
 
 ---
 
