@@ -14,7 +14,7 @@
 ---
 
 ### 📂 Featured Projects
-- [📌 Media Tracker](https://mymediatracker.app) – MERN stack app for managing personal media
+- [MyMediaTracker](https://mymediatracker.app) – MERN stack app for managing personal media
 
 ---
 
