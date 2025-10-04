@@ -14,12 +14,7 @@
 ---
 
 ### 📂 Featured Projects
-- [📌 Media Tracker](https://mymediatracker.app) – MERN app for managing personal media
-  
----
-
-### 📊 GitHub Stats
-![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishashenoy&show_icons=true&theme=radical)  
+- [📌 Media Tracker](https://mymediatracker.app) – MERN stack app for managing personal media
 
 ---
 
