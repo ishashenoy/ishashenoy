@@ -6,13 +6,6 @@
 
 ---
 
-### 🚀 Skills & Tools
-- 💻 **Languages:** Python, Java, JavaScript 
-- 🌐 **Web Development:** React, Node.js, Express, MongoDB, HTML, CSS, Tailwind  
-- ⚙️ **Tools:** Selenium, Git, GitHub, VS Code.
-
----
-
 ### 📂 Featured Projects
 - [MyMediaTracker](https://mymediatracker.app) – MERN stack app for managing personal media
 
@@ -20,4 +13,4 @@
 
 ### 📫 How to Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/isha-shenoy-7b3686288/)  
-- ✉️ Email: ishashenoy007@gmail.com | ishenoy@uwaterloo.ca
+- ✉️ Email: ishenoy@uwaterloo.ca
