@@ -1,6 +1,6 @@
 ### About Me
 - First-year **Management Engineering** student at the University of Waterloo  
-- Interested in **full stack development** and **data learning**
+- Interested in web dev, mobile dev, ai, ml, systems, product!
 
 ---
 
