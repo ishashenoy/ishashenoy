@@ -1,6 +1,6 @@
 ### About Me
 - First-year **Management Engineering** student at the University of Waterloo  
-- Interested in web dev, mobile dev, ai, ml, product!
+- Interested in ml, data, product!
 
 ---
 
