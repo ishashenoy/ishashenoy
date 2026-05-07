@@ -1,10 +1,15 @@
-### About Me
-- First-year **Management Engineering** student at the University of Waterloo  
-- Product minded!
-- Learning ML right now :)
+## about me
+
+Management Engineering @ University of Waterloo
+
+Founded and scaled a startup to 15K+ users with $0 ad spend
+
+Exploring ML & data — currently building things to learn by doing
+
+Looking for Winter 2027 internships — open to connect!
 
 ---
 
-### How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/isha-shenoy-7b3686288/)  
-- Email: ishenoy@uwaterloo.ca
+## reach me
+- [LinkedIn](https://www.linkedin.com/in/isha-shenoy-7b3686288/)
+- [ishenoy@uwaterloo.ca](mailto:ishenoy@uwaterloo.ca)
