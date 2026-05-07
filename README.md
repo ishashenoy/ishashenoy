@@ -1,6 +1,7 @@
 ### About Me
 - First-year **Management Engineering** student at the University of Waterloo  
-- Interested in ml, data, product!
+- Product minded!
+- Learning ML right now :)
 
 ---
 
