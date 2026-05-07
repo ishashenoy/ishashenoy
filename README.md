@@ -2,7 +2,7 @@
 
 Management Engineering @ University of Waterloo
 
-Founded and scaled a startup to 15K+ users with $0 ad spend
+Founded and scaled my [startup](https://mytria.app/) to 15K+ users with $0 ad spend
 
 Exploring ML & data — currently building things to learn by doing
 
